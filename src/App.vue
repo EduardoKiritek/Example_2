@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <Header/>
+    <h1>Este es un mensaje nuevo</h1>
     <router-view/>
   </div>
 </template>
